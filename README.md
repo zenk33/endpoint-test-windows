@@ -6,8 +6,8 @@ Development
 
 Run using the supplied command file
 
-1. Download from github
-2. Extract .zip folder to the desktop
-3. Copy the runEndPointTest.command to the desktop
-4. Open terminal and run "chmod u+x ~/Desktop/runEndPointTest.command"
-5. Double click on the runEndPointTest.command file
+1. Create a folder on the desktop and name it "quicktest"
+2. Clone repo into that folder
+3. Navigate to the endpoint-test-windows
+4. Copy the "runQuickTest.bat" to the desktop
+5. Double click to run the "runQuickTest.bat" file (You may have to run as administrator)
