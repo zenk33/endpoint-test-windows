@@ -1,0 +1,16 @@
+{
+  "name": "endpoint-test-windows",
+  "version": "1.0.0",
+  "description": "quick endpoint-test for windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "will-kee",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^6.0.3",
+    "node-fetch": "^2.6.0"
+  }
+}
